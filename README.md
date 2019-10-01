@@ -15,5 +15,5 @@ Last page update: **23/09/2019**
 6. Install the required R packages in requirements.rtf
 7. Change all the 'read-in' file path in the file nmf_drug.R to the directory on your computer and run nmf_drug.R to get the cluster results
 
-# the processed data
+# The pre-processed data
 The [original gene expression signatures](https://pan.baidu.com/s/1YBCNr_XJlgXd0fWEq7VnlQ), [normalized signatures](https://pan.baidu.com/s/1LVBLVPEyn8CYdLAoC-uC-g) and [non-negative data matrix](https://pan.baidu.com/s/1266VDblgPoVB7kA_YOk5Wg) are available to download.
